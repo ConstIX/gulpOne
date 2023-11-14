@@ -268,7 +268,7 @@ body {
   display: flex;
   flex: 1 0 100%;
   min-height: 500px;
-  background: url("../../img/bg.jpg") top/cover no-repeat;
+  background: url("../img/bg.jpg") top/cover no-repeat;
   margin: 170px 5px 5px 5px;
   border-radius: 20px;
 }
